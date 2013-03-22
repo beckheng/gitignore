@@ -2,4 +2,5 @@ classes/
 bin/
 *.swp
 .mymetadata
-
+.settings/
+.DS_Store
