@@ -1,4 +1,4 @@
 gitignore
 =========
 
-Ony for our project .gitignore file.
+Only for our project .gitignore file.
