@@ -1,6 +1,8 @@
 classes/
 bin/
 *.swp
+*.db
+*.bak
 .mymetadata
 .settings/
 .DS_Store
